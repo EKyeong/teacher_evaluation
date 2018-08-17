@@ -1,2 +1,2 @@
 # teacher_evaluation
-teacher evaluation
+강의평가 도구 
